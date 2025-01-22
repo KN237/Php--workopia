@@ -1,0 +1,16 @@
+{
+    "name": "kn237/php--workopia",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Wilfried H. KANA",
+            "email": "kanamboma@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
